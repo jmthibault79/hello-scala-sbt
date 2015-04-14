@@ -1,4 +1,4 @@
-name := "reactive"
+name := "hello-scala-sbt"
 
 version := "1.0"
 
